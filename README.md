@@ -1,4 +1,4 @@
-## ** StackSpot Agent Chat Script
+# Integração Agente Stackspot
 
 Este script Python realiza autenticação via OAuth2 Client Credentials e envia perguntas para um agente StackSpot, retornando as respostas no terminal.
 
@@ -10,7 +10,8 @@ Este script Python realiza autenticação via OAuth2 Client Credentials e envia 
 
 ## Introdução
 
-1. Primeiro voce vai precisar das credenciais. 
+1. Primeiro voce vai precisar das credenciais.
+
 - Use este markdown como guia [crendenciais](/credenciais.md) 
 
 2. Clone este repositório ou copie o script para sua máquina.
